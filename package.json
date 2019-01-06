@@ -1,0 +1,23 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhkakar0/nodepractice.git"
+  },
+  "author": "Saurabh Kakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhkakar0/nodepractice/issues"
+  },
+  "homepage": "https://github.com/saurabhkakar0/nodepractice#readme"
+}
