@@ -10,4 +10,8 @@ ES6:
 
     It will give the error.
 
-2.     
+2.  let allows re assign the value.
+        let a = "1";
+        a = "2";
+
+3. const is block scoped and does not allow re assign.
