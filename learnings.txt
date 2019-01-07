@@ -1,0 +1,13 @@
+https://www.wolfe.id.au/2014/02/01/getting-a-new-node-project-started-with-npm/
+
+1. use npm init and give initial settings as asked by prompt
+2. use git init to set up git
+
+ES6:
+1. let is blocked scope {} and it does not allow use of same variable names. For eg
+    let a = "1";
+    let a = "2";
+
+    It will give the error.
+
+2.     

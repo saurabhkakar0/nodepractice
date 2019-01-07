@@ -8,6 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "build": "node es6_tutorial.js",
     "test": "make test"
   },
   "repository": {

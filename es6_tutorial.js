@@ -1,2 +1,3 @@
-let s = 'saurabh';
-console.log(s);
+function printname(){
+    
+}
